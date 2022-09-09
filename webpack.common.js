@@ -10,7 +10,7 @@ module.exports = {
   // mode: 'none', // none development production
   output: {
     path: path.resolve(__dirname, 'dist'),
-    filename: 'game.min.[hash:8].js',
+    filename: 'app.min.[hash:8].js',
   },
   target: 'web',
   
